@@ -1,0 +1,5 @@
+.python-version
+*.txt
+!*requirements.txt
+*.json
+__pycache__
